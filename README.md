@@ -164,12 +164,4 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyter
 
 ---
 
-## 👤 Author
-
-**Vansh Nain**
-- GitHub: [vanshnain-builds](https://github.com/vanshnain-builds)
-- LinkedIn: [vansh-nain](https://linkedin.com/in/vansh-nain)
-
----
-
 ⭐ If you found this project useful, consider giving the repo a star!
